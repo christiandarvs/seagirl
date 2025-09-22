@@ -45,5 +45,6 @@ p {
 .poem {
   text-align: center;
   margin: 2rem 0;
+  padding-top: 4rem;
   padding-bottom: 5rem;
 }
